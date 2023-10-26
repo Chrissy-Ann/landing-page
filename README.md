@@ -1,2 +1,2 @@
-# landing-page
-This repository contains the starter files for the Landing Page project. 
+# Landing Page
+Create the HTML and CSS for a landing page that closely resembles the mockups. 
